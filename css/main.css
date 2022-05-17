@@ -431,3 +431,18 @@ li {
   justify-content: center;
   flex-direction: column;
 }
+
+.footer-links hr {
+  align-items: center;
+  width: 40%;
+  background-color: rgba(0, 0, 0, 0.781);
+  height: 5px;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
+.footer-links .social-icon {
+  color: #505f79;
+  width: 14.17px;
+  height: 20px;
+}
