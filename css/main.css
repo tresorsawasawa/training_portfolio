@@ -348,11 +348,12 @@ li {
 }
 
 .contact-msg {
+  color: #172b4d;
+  font-family: 'Inter', sans-serif;
   font-weight: 700;
   font-size: 32px;
   line-height: 44px;
   text-align: center;
-  color: #172b4d;
 }
 
 .form {
